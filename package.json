@@ -1,0 +1,17 @@
+{
+  "name": "gettingstartedrepository",
+  "version": "1.0.0",
+  "description": "An app to  practice APIs and Version control using Git",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Git",
+    "VCS",
+    "API",
+    "Learning"
+  ],
+  "author": "Alexander Gutierrez",
+  "license": "ISC"
+}
